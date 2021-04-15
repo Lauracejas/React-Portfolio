@@ -1,0 +1,29 @@
+.hero {   
+    font-size: 20px;
+}
+
+#fname {
+    width: 380px;
+    height: 50px;
+    margin: 15px
+}
+
+#mailid {
+    width: 380px; 
+    height: 50px;
+    margin: 15px
+}
+
+#msg {
+    width: 380px; 
+    height: 120px;
+    margin: 15px
+}
+
+.row {
+    justify-content: space-around;
+    margin: 20px
+}
+svg{
+    color: white
+}

@@ -1,0 +1,17 @@
+:root{
+    background-image: url(../../assets/port.jpg);
+}
+
+.hero {
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  color:white
+}
+
+.hero h1 {
+    font-size: 80px;
+}
