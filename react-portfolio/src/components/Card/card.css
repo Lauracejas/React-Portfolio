@@ -1,0 +1,28 @@
+.card:hover {
+    transform: scale(1.1);
+}
+.card {
+    justify-content:space-around;
+    margin: auto;
+}
+.card-body{
+    background-color: lightgray;
+}
+.cardImages {
+    padding-top: 10px;
+}
+.card-tech {
+    font-size: small;
+}
+
+.card-title {
+    color: lightseagreen;
+}
+
+.card-img a {
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    text-align: center;   
+
+}

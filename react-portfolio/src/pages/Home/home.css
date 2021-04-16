@@ -3,6 +3,7 @@
 }
 
 .hero {
+    display: flex;
     margin: 0;
   position: absolute;
   top: 50%;
@@ -14,4 +15,8 @@
 
 .hero h1 {
     font-size: 80px;
+}
+
+.photo {
+    background-image: url(../../assets/me.jpg);
 }

@@ -8,8 +8,9 @@ const Header = () => {
 
     return (
         <div className="hero text-center">
-            
-            {/* <img className="photo" id="photo" alt=" Me" title="Me"  src="../../assets/me.jpg"></img> */}
+            <div className="photome">
+            <img className="photo" id="photo" alt=" Me" title="Me"  src="../../assets/me.jpg" />
+            </div>
             <div className="Header">
                 <h1>{`I'm ${header}`}</h1>
                 <p className="line-1 ">I am a Full Stack Software Developer </p>

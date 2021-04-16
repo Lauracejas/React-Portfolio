@@ -1,0 +1,10 @@
+.navBar {
+color: white;
+flex-wrap: wrap;
+font-size: 15px;
+background-color: black ;
+}
+
+.navBar ul a {
+    color: white;
+}

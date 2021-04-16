@@ -1,9 +1,11 @@
 import React, { Component } from "react";
-import NavTabs from "./NavTabs";
-import Home from "../pages/Home/Home";
-import About from "../pages/About/About";
-import Projects from "../pages/Projects/Projects";
-import Contact from "../pages/Contact/Contact";
+import NavTabs from "../NavTabs/NavTabs";
+import Home from "../../pages/Home/Home";
+import About from "../../pages/About/About";
+import Projects from "../../pages/Projects/Projects";
+import Contact from "../../pages/Contact/Contact";
+import Footer from "../Footer/Footer";
+import "./portfolio.css"
 
 class PortfolioContainer extends Component {
   state = {
@@ -28,7 +30,7 @@ class PortfolioContainer extends Component {
 
   render() {
     return (
-      
+      <>
       <div>
         <NavTabs
           currentPage={this.state.currentPage}
@@ -36,10 +38,12 @@ class PortfolioContainer extends Component {
         />
         {this.renderPage()}
 
+        
 
       </div>
 
-      
+<Footer />
+      </>
     );
   }
 }

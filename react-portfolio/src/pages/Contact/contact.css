@@ -1,5 +1,14 @@
 .hero {   
-    font-size: 20px;
+    font-size: 20px; 
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
 }
 
 #fname {
@@ -17,13 +26,35 @@
 #msg {
     width: 380px; 
     height: 120px;
-    margin: 15px
+    margin: 15px;
+    justify-content: start;
 }
 
 .row {
     justify-content: space-around;
-    margin: 20px
+    display: flex;
+    margin: 20px;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
 svg{
     color: white
 }
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    text-align: center;
+}
+
+#icon {
+position: relative;
+justify-content:space-around;
+margin: 10px;
+width: 50px; 
+height: 50px;
+}
+
+
+

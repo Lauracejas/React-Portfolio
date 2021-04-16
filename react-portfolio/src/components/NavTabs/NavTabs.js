@@ -1,10 +1,11 @@
 import React from "react";
+import "./navtabs.css"
 
 function NavTabs(props) {
 
 
     return (
-        <>
+        <nav className="navBar">
     <ul className="nav nav-tabs mt-4" >
       <li className="nav-item">
         <a
@@ -43,7 +44,7 @@ function NavTabs(props) {
         </a>
       </li>
     </ul>
-</>
+</nav>
     );
 }
 
