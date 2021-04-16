@@ -2,8 +2,18 @@
     transform: scale(1.1);
 }
 .card {
-    justify-content:space-around;
-    margin: auto;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;  
+    text-align: center; 
+    margin: 20px;
+    transform: translateZ(-40px);
+    z-index: 1;
+    margin: 40px;
+    /* transition: all .2s ease-in-out; */
+    transition: 0.2s all cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    box-shadow: inset 5px 5px 10px #000000, 
+    inset -5px -5px 10px rgb(101, 101, 102);
 }
 .card-body{
     background-color: lightgray;
@@ -25,4 +35,12 @@
     align-items: center;  
     text-align: center;   
 
+}
+
+.btn {
+    margin: 8px;
+    width: fit-content;
+    align-content: center;
+    align-items: center;  
+    text-align: center;   
 }

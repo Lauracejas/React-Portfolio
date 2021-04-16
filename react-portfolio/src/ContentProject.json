@@ -4,7 +4,7 @@
         "title": "eyeRead",
         "picture": "./assets/library.jpg",
         "description": "Node.js, Express, API, JavaScript",
-        "deployUrl": "https://lauracejas.github.io/Weather-Dashboard/",
+        "deployUrl": "https://eyeread-app.herokuapp.com/",
         "gitRepoUrl": "https://github.com/Lauracejas/Project-2-Eye-Read"
 
     },
@@ -13,7 +13,7 @@
         "title": "Weather Dashboard",
         "picture": "./assets/weather.jpg",
         "description": "HTML, CSS, javaScript, API",
-        "deployUrl": "https://eyeread-app.herokuapp.com/",
+        "deployUrl": "https://lauracejas.github.io/Weather-Dashboard/",
         "gitRepoUrl": "https://github.com/Lauracejas/Weather-Dashboard"
 
     },

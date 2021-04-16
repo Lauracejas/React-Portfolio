@@ -5,7 +5,7 @@ import projects from "../../ContentProject.json"
 function Projects() {
 
     return (
-        <div className="Hero">
+        <div className="row">
         <Card
           title={projects[0].title}
           picture={projects[0].picture}
