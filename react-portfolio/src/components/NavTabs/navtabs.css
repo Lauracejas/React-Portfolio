@@ -2,9 +2,12 @@
 color: white;
 flex-wrap: wrap;
 font-size: 15px;
-background-color: black ;
+background-color: rgb(151, 98, 107) ;
+
 }
 
 .navBar ul a {
     color: white;
+    height: 50px;
+    font-family: 'Merienda', cursive;
 }

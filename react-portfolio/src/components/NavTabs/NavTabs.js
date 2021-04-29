@@ -6,7 +6,7 @@ function NavTabs(props) {
 
     return (
         <nav className="navBar">
-    <ul className="nav nav-tabs mt-4" >
+    <ul className="nav nav-tabs" >
       <li className="nav-item">
         <a
           href="#home"

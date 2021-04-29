@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Particles from "../layouts/Particles"
 import NavTabs from "../NavTabs/NavTabs";
 import Home from "../../pages/Home/Home";
 import About from "../../pages/About/About";
@@ -8,9 +9,11 @@ import Footer from "../Footer/Footer";
 import "./portfolio.css"
 
 class PortfolioContainer extends Component {
+  
   state = {
     currentPage: "Home"
   };
+
 
   handlePageChange = page => {
     this.setState({ currentPage: page });
@@ -30,20 +33,19 @@ class PortfolioContainer extends Component {
 
   render() {
     return (
-      <>
-      <div>
-        <NavTabs
-          currentPage={this.state.currentPage}
-          handlePageChange={this.handlePageChange}
-        />
-        {this.renderPage()}
+      <div >
+        <div>
+          <NavTabs
+            currentPage={this.state.currentPage}
+            handlePageChange={this.handlePageChange}
+          />
+          {this.renderPage()}
+          <Particles />
 
-        
+        </div>
 
+        <Footer />
       </div>
-
-<Footer />
-      </>
     );
   }
 }

@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "eyeRead",
-        "picture": "./assets/library.jpg",
+        "image": "./assets/library.jpg",
         "description": "Node.js, Express, API, JavaScript",
         "deployUrl": "https://eyeread-app.herokuapp.com/",
         "gitRepoUrl": "https://github.com/Lauracejas/Project-2-Eye-Read"
@@ -11,7 +11,7 @@
     {
         "id": 2,
         "title": "Weather Dashboard",
-        "picture": "./assets/weather.jpg",
+        "image": "./assets/weather.jpg",
         "description": "HTML, CSS, javaScript, API",
         "deployUrl": "https://lauracejas.github.io/Weather-Dashboard/",
         "gitRepoUrl": "https://github.com/Lauracejas/Weather-Dashboard"
@@ -20,7 +20,7 @@
     {
         "id": 3,
         "title": "Note Taker",
-        "picture": "./assets/note.jpg",
+        "image": "./assets/note.jpg",
         "description": "Nodemon, Express, HTML, CSS",
         "deployUrl": "https://lit-wildwood-85399.herokuapp.com/",
         "gitRepoUrl": "https://github.com/Lauracejas/Note-Taker"
@@ -29,7 +29,7 @@
     {
         "id": 4,
         "title": "Fitness Tracker",
-        "picture": "./assets/jpg",
+        "image": "./assets/jpg",
         "description": "HTML, CSS, javaScript, Nodejs, mongoose, mongodb",
         "deployUrl": "https://laura-workout-traker.herokuapp.com/",
         "gitRepoUrl": "https://github.com/Lauracejas/Workout-Tracker"
@@ -38,7 +38,7 @@
     {
         "id": 5,
         "title": "Covid Correlation Console",
-        "picture": "./assets/covid-cells.jpg",
+        "image": "./assets/covid-cells.jpg",
         "description": "HTML, CSS, javaScript, API",
         "deployUrl": "https://smoyamendez.github.io/covid-correlation-console/",
         "gitRepoUrl": "https://github.com/Lauracejas/covid-correlation-console"
@@ -47,7 +47,7 @@
     {
         "id": 6,
         "title": "Weather Dashboard",
-        "picture": "./assets/password.jpg",
+        "image": "./assets/password.jpg",
         "description": "HTML, CSS, javaScript",
         "deployUrl": "https://lauracejas.github.io/Pasword-Generator/",
         "gitRepoUrl": "https://github.com/Lauracejas/Pasword-Generator"

@@ -1,6 +1,11 @@
 import React from "react";
 import PortfolioContainer from "./components/PortfolioContainer/PortfolioContainer";
-
-const App = () => <PortfolioContainer />;
+// import Footer from "./components/Footer/Footer"
+const App = () => 
+<>
+<PortfolioContainer />
+{/* <Footer /> */}
+</>
+;
 
 export default App;

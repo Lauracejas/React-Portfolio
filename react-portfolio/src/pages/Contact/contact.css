@@ -1,4 +1,4 @@
-.hero {   
+ /* {   
     font-size: 20px; 
     text-align: center;
     position: absolute;
@@ -7,24 +7,31 @@
     transform: translate(-50%, -50%);
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
+    flex-direction: row;       
+} */
+.card {
+    margin-top: 20px;
     
+}
+h1{
+    align-content: center;  
+    font-family: 'Merienda', cursive; 
 }
 
 #fname {
-    width: 380px;
+   
     height: 50px;
     margin: 15px
 }
 
 #mailid {
-    width: 380px; 
+   
     height: 50px;
     margin: 15px
 }
 
 #msg {
-    width: 380px; 
+   
     height: 120px;
     margin: 15px;
     justify-content: start;
@@ -38,21 +45,22 @@
     flex-direction: row;
 }
 svg{
-    color: white
+    color: black
 }
 
 .btn {
     display: flex;
     justify-content: center;
-    align-items: center;  
-    text-align: center;
+    align-items: center;
+    display: inline-block;  
+    
 }
 
 #icon {
 position: relative;
 justify-content:space-around;
 margin: 10px;
-width: 50px; 
+width: 60px; 
 height: 50px;
 }
 

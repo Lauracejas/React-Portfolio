@@ -5,6 +5,7 @@ import projects from "../../ContentProject.json"
 function Projects() {
 
     return (
+      <div className="Container-fluid">
         <div className="row">
         <Card
           title={projects[0].title}
@@ -50,6 +51,7 @@ function Projects() {
         />
             
        
+      </div>
       </div>
 
     )
