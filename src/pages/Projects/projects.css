@@ -5,7 +5,7 @@
     margin-top: 20px;
     column-gap: 35px;
     row-gap:20px;
-    color: rgb(151, 98, 107);
+    color: white;
     background-color:rgb(151, 98, 107);
     border: 2px solid;
     border-radius: 6px;
@@ -23,6 +23,9 @@
 .card-img > a {
     margin: 6px;
     background-color: white
+}
+.card-img > p {
+    color: white;
 }
 
 h3{

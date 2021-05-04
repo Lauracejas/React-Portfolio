@@ -6,7 +6,7 @@ function Footer() {
     return (
 <footer>
 
-<p id="not-dark" className="Copy">2021 © Copyright <strong>Laura Cejas</strong>. All Rights Reserved</p>
+<p  id="not-dark" className="Copy text-center">2021 © Copyright <strong>Laura Cejas</strong>. All Rights Reserved</p>
        
 </footer>
     )    

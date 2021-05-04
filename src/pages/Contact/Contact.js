@@ -6,13 +6,6 @@ import "./contact.css";
 // import { faUser } from "@fortawesome/free-solid-svg-icons";
 
 const Contact = () => {
-
-    const social = {
-        github: 'https://github.com/Lauracejas',
-        linkedin: 'https://www.linkedin.com/in/laura-cejas-058913155/',
-        resume: '../../assets/Laura Cejas_Resume.docx.pdf/'
-    }
-
     return (
 
         <section
