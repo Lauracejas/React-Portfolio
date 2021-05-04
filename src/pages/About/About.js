@@ -15,7 +15,7 @@ class About extends Component {
                     <div className="about align-self-center col-sm-8">
                         <h1>About Me</h1>
                         <p className="line-1 ">My name is Laura Cejas. I am from Cuba. I am a Full-Stack developer
-                        student at UNCC Boot
+                        graduated from UNCC Boot
                         Camp. As an
                         organized and highly motivated person, I am able to adapt to any circumstance and always
                         give my

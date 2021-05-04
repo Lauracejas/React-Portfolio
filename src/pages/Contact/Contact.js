@@ -125,7 +125,7 @@ const Contact = () => {
                         <ul>
                           <li>
                             <a
-                              href="../../assets/Laura Cejas_Resume.docx.pdf"
+                              href="https://docs.google.com/document/d/1I_7kIf3LZL7UZV9Oq56WoGlH69mZi-ZyN78S9Mu9jAs/edit?usp=sharing"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
