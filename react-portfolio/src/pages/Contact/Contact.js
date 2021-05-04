@@ -36,9 +36,9 @@ const Contact = () => {
                           method="POST"
                           className="contactForm"
                         >
-                          <div id="sendmessage">
+                          {/* <div id="sendmessage">
                             Your message has been sent. Thank you!
-                          </div>
+                          </div> */}
                           <div id="errormessage"></div>
                           <div className="row">
                             <div className="col-md-12 mb-3">
@@ -110,7 +110,7 @@ const Contact = () => {
                     </div>
                     <div className="col-md-6">
                       <div className="title-box-2 pt-4 pt-md-0">
-                        <h5 className="title-left">Get in Touch</h5>
+                        <h4 className="title-left">Get in Touch</h4>
                       </div>
                       <div className="more-info">
                         <p className="lead">
@@ -120,17 +120,12 @@ const Contact = () => {
                           <br />
                           Simply fill the form and send me an email.
                         </p>
-                        {/* <!-- <ul class="list-ico">
-                                <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                                <li><span class="ion-ios-telephone"></span> (617) 557-0089</li>
-                                <li><span class="ion-email"></span> contact@example.com</li>
-                                </ul> --> */}
                       </div>
                       <div className="socials">
                         <ul>
                           <li>
                             <a
-                              href="/"
+                              href="../../assets/Laura Cejas_Resume.docx.pdf"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -141,7 +136,7 @@ const Contact = () => {
                           </li>
                           <li>
                             <a
-                              href="/"
+                              href="https://github.com/Lauracejas"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
