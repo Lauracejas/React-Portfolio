@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.4100ae0a.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.91dadad7.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.91dadad7.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.72e2eb81.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.72e2eb81.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/React-Portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.144cca00.chunk.js": "/React-Portfolio/static/js/2.144cca00.chunk.js",
+    "static/js/2.144cca00.chunk.js.map": "/React-Portfolio/static/js/2.144cca00.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/React-Portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.4100ae0a.chunk.css.map": "/React-Portfolio/static/css/main.4100ae0a.chunk.css.map",
+    "static/js/2.144cca00.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.144cca00.chunk.js.LICENSE.txt",
+    "static/media/covid-cells.d8ec0f1b.jpg": "/React-Portfolio/static/media/covid-cells.d8ec0f1b.jpg",
+    "static/media/library.0c05267d.jpg": "/React-Portfolio/static/media/library.0c05267d.jpg",
+    "static/media/me.e1ea7b57.jpg": "/React-Portfolio/static/media/me.e1ea7b57.jpg",
+    "static/media/password.3a53408a.jpg": "/React-Portfolio/static/media/password.3a53408a.jpg",
+    "static/media/revamped.91c72a3e.JPG": "/React-Portfolio/static/media/revamped.91c72a3e.JPG",
+    "static/media/weather.63a4b56e.jpg": "/React-Portfolio/static/media/weather.63a4b56e.jpg",
+    "static/media/workout.e5bf39f4.jpg": "/React-Portfolio/static/media/workout.e5bf39f4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72e2eb81.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.144cca00.chunk.js",
+    "static/css/main.4100ae0a.chunk.css",
+    "static/js/main.91dadad7.chunk.js"
+  ]
+}
