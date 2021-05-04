@@ -12,7 +12,7 @@ const Header = () => {
         <div id="stars2" />
         <div id="stars3" />
 
-        <div className="intro-content display-table">
+        <div className="intro-content hero display-table">
           <div className="table-cell">
             <div className="container">
             <div className="work-img">
@@ -36,13 +36,13 @@ const Header = () => {
                 </strong>
               </p>
               <p className="pt-3">
-                <a
+                {/* <a
                   className="btn btn-primary btn js-scroll px-4"
                   href="#work"
                   role="button"
                 >
                   View My Work
-                </a>
+                </a> */}
               </p>
             </div>
           </div>
