@@ -4,7 +4,8 @@
     margin:auto;
     justify-content: space-around;   
     text-align: center;
-    color: rgb(151, 98, 107);  
+    color: rgb(151, 98, 107); 
+    height: 80%;
    
 }
 
@@ -19,4 +20,10 @@
 
 .about > h1{
   font-size: 80px;  
+}
+
+@media only screen and (min-width: 1024px) {
+  .container-fluid img .header-nav-area #nav_container  {
+    display:flex;
+  }
 }

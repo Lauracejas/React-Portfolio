@@ -7,10 +7,18 @@ footer {
   background-color: rgb(151, 98, 107);
   color: white;
   text-align: center;
+ 
 }
 
 footer > p{
   margin-top: 15px;
   margin-bottom: 15px;
   font-family: 'Merienda', cursive;
+  font-size: 15px;
+}
+
+@media only screen and (min-width: 1024px) {
+  footer  {
+    display:flex;
+  }
 }
