@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Particles from "../layouts/Particles"
+// import Particles from "../layouts/Particles"
 import NavTabs from "../NavTabs/NavTabs";
 import Home from "../../pages/Home/Home";
 import About from "../../pages/About/About";
@@ -41,7 +41,7 @@ class PortfolioContainer extends Component {
           />
         </div>
           {this.renderPage()}
-          <Particles />
+          {/* <Particles /> */}
 
 
         <Footer />

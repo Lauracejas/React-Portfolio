@@ -1,4 +1,4 @@
-footer {
+.footer {
     margin: auto 0;
     position: fixed;
   left: 0;
@@ -10,7 +10,7 @@ footer {
  
 }
 
-footer > p{
+.footer > p{
   margin-top: 15px;
   margin-bottom: 15px;
   font-family: 'Merienda', cursive;
