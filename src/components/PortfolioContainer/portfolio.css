@@ -1,0 +1,7 @@
+.App {
+    background-image: url(../../assets//CharlotteNC.jpeg);
+      background-size: cover;
+      min-height: 100vh;
+      background-position: fixed;
+      overflow-x: hidden
+  }

@@ -4,10 +4,10 @@ import PortfolioContainer from "./components/PortfolioContainer/PortfolioContain
 import "./style.css"
 
 const App = () => 
-<>
+<div className="App">
 <PortfolioContainer />
 {/* <Footer /> */}
-</>
+</div>
 ;
 
 export default App;

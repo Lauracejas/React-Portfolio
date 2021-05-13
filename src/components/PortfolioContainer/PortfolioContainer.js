@@ -33,7 +33,7 @@ class PortfolioContainer extends Component {
 
   render() {
     return (
-      <div >
+      <div className="App">
         <div>
           <NavTabs
             currentPage={this.state.currentPage}
