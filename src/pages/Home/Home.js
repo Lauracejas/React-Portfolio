@@ -1,6 +1,7 @@
 import React from 'react';
 import "./home.css"
 import Typed from "react-typed"
+// import Particles from "../../components/layouts/Particles"
 
 import Photo from "../../assets/me.jpg"
 
@@ -9,7 +10,6 @@ const Header = () => {
   return (
     <div id="home" className="intro route bg-image background">
       
-
       <div className="intro-content hero display-table">
         <div className="table-cell">
           <div className="container">
@@ -38,13 +38,14 @@ const Header = () => {
                   className="btn btn-primary btn js-scroll px-4"
                   href="#work"
                   role="button"
-                >
+                  >
                   View My Work
                 </a> */}
             </p>
           </div>
         </div>
       </div>
+                {/* <Particles /> */}
     </div>
   )
 

@@ -14,7 +14,7 @@ class About extends Component {
                     <img src={Photo} id="photome" alt="logo" />
                     <div className="about align-self-center col-sm-8">
                         <h1>About Me</h1>
-                        <p className="line-1 ">I am a Front End Web Developer with a background in psychology.  I recently earned a certificate in Full Stack Development from the BootCamp of University of North Carolina at Charlotte, where I developed skills in JavaScript, HTML, CSS, React.js, and responsive web design. </p>
+                        <p className="line-1 ">I am from Cuba. I am a Full-Stack Web Developer with a background in Engineering.  I recently earned a certificate in Full Stack Development from the BootCamp of University of North Carolina at Charlotte, where I developed skills in JavaScript, HTML, CSS, React.js, and responsive web design. </p>
                         <p>
                             <p>An innovative problem solver passionate about developing apps, with a focus on mobile-first design and development. My degree in Engineer have prepared me to approach problems with creativity and teamwork.</p>
                         With each project, my aim is to best engage my audience for an impactful user experience.

@@ -2,13 +2,15 @@
      background-image: url(../../assets/port.jpg); 
     
 } */
-
+#home {
+    background-image: url(../../assets/port.jpg);
+}
 .intro-content{
     display: flex;
     margin: auto;
  
   font-size: 60px;
-  color: rgb(151, 98, 107);  
+  color: white;  
     font-family: 'Merienda', cursive;
     margin:auto;
     justify-content: space-around;   
@@ -22,7 +24,7 @@
     vertical-align: middle;
     line-height: 3;
     display: inline-block;
-    color: rgb(151, 98, 107);
+    color: white;
     
   
 }

@@ -66,9 +66,14 @@ list-style: none;
 display: inline-block;
 }
 
-h4, h5, p  {
+.more-info > p  {
     font-family: 'Merienda', cursive; 
     color: rgb(151, 98, 107);
+}
+
+.title-box-2 > h4, h5 {
+    font-family: 'Merienda', cursive; 
+    color: rgb(151, 98, 107);  
 }
 
 
