@@ -24,7 +24,7 @@ function Projects(props) {
             </div>
           </div>
         </div>
-        <div className="row text-center">
+        <div className="row box-cards text-center">
           <div className="cards col-sm-3 text-white">
             <div className="card-img cardImages" >
               <img className="card-img" src={stock} alt={props.title} />

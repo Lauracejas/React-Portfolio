@@ -2,7 +2,7 @@
     transform: scale(1.1);
 }
 .cards {
-    background-color: rgb(151, 98, 107);
+    background-color: rgb(26, 8, 90);
     justify-content: space-around;
     align-content: center;
     align-items: center;  
@@ -20,7 +20,7 @@
 }
 
 .card-body{
-    background-color: rgb(151, 98, 107);
+    background-color: rgb(19, 7, 63);
 }
 .cardImages {
     padding-top: 10px;
