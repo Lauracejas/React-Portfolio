@@ -4,26 +4,43 @@
     margin:auto;
     justify-content: space-around;   
     text-align: center;
-    color: rgb(151, 98, 107); 
+    color: white; 
     height: 80%;
+    
    
+}
+
+.row {
+  justify-content: space-around;
 }
 
 #photome {
     border: 1px solid;
-    border-radius: 60px;
-    height: fit-content;   
+    border-radius: 200px;
+    height: 354px;   
     width: null;      
     margin: 11px; 
-    margin-top: 60px; 
+    margin-top: 60px;
+    margin-left: 20px;
 }
-
+.about{
+  margin-top: 50px;
+}
 .about > h1{
   font-size: 60px; 
 }
 
-.about > p {
-  font-size: 20px
+.textMe {
+  background-color:  rgba(252, 246, 247, 0.7);
+  margin-top: 40px;
+ color:rgb(19, 7, 63);
+ padding: 15px;
+ border-radius: 25px;
+
+}
+
+.textMe > p {
+  font-size: 20px;
 }
 
 .about { 
