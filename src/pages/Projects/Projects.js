@@ -18,8 +18,7 @@ function Projects(props) {
         <div className="row">
           <div className="col-sm-12">
             <div className="title-box text-center">
-              <h3 className="title-a">My Projects</h3>
-              
+              <h3 className="title-a">My Projects</h3>              
               <div className="line-mf"></div>
             </div>
           </div>
@@ -28,7 +27,7 @@ function Projects(props) {
           <div className="cards col-sm-3 text-white">
             <div className="card-img cardImages" >
               <img className="card-img" src={stock} alt={props.title} />
-              <h4 className="card-title">{props.title}</h4>
+              <h4 className="card-title">Covid Correlation Console</h4>
               <p className="card-tech">HTML, CSS, JavaScript, API</p>
               <a href="https://smoyamendez.github.io/covid-correlation-console/" className="btn btn-outline-info link">Deployed Link</a>
               <a href="https://github.com/Lauracejas/covid-correlation-console"
@@ -39,7 +38,7 @@ function Projects(props) {
           <div className="cards col-sm-3 text-white">
             <div className="card-img cardImages" >
               <img className="card-img" src={stock1} alt={props.title} />
-              <h4 className="card-title">{props.title}</h4>
+              <h4 className="card-title">reVamped</h4>
               <p className="card-tech">Reactjs, HTML, CSS, JavaScript, Express.js, Node.js, mysql2</p>
               <a href="https://e-commerce-revamped.herokuapp.com/" className="btn btn-outline-info link">Deployed Link</a>
               <a href="https://github.com/Lauracejas/e-commerce-customs"
@@ -50,7 +49,7 @@ function Projects(props) {
           <div className="cards col-sm-3 text-white">
             <div className="card-img cardImages" >
               <img className="card-img" src={stock2} alt={props.title} />
-              <h4 className="card-title">{props.title}</h4>
+              <h4 className="card-title">eyeRead</h4>
               <p className="card-tech">Handlebars, CSS, JavaScript, Express.js, Node.js, mysql2, bcrypt</p>
               <a href="https://eyeread-app.herokuapp.com/login" className="btn btn-outline-info link">Deployed Link</a>
               <a href="https://github.com/Lauracejas/Project-2-Eye-Read"
@@ -61,7 +60,7 @@ function Projects(props) {
           <div className="cards col-sm-3 text-white">
             <div className="card-img cardImages" >
               <img className="card-img" src={stock3} alt={props.title} />
-              <h4 className="card-title">{props.title}</h4>
+              <h4 className="card-title">Password Generator</h4>
               <p className="card-tech">HTML, CSS, JavaScript</p>
               <a href="https://lauracejas.github.io/Pasword-Generator/" className="btn btn-outline-info link">Deployed Link</a>
               <a href="https://github.com/Lauracejas/Pasword-Generator"
@@ -72,7 +71,7 @@ function Projects(props) {
           <div className="cards col-sm-3 text-white">
             <div className="card-img cardImages" >
               <img className="card-img" src={stock4} alt={props.title} />
-              <h4 className="card-title">{props.title}</h4>
+              <h4 className="card-title">Weather Dashboard</h4>
               <p className="card-tech">HTML, CSS, JavaScript, API, forecast</p>
               <a href="https://lauracejas.github.io/Weather-Dashboard/" className="btn btn-outline-info link">Deployed Link</a>
               <a href="https://github.com/Lauracejas/Weather-Dashboard"
@@ -83,7 +82,7 @@ function Projects(props) {
           <div className="cards col-sm-3 text-white">
             <div className="card-img cardImages" >
               <img className="card-img" src={stock5} alt={props.title} />
-              <h4 className="card-title">{props.title}</h4>
+              <h4 className="card-title">Workout Tracker</h4>
               <p className="card-tech">HTML, CSS, JavaScript, Express.js, Node.js, mongodb</p>
               <a href="https://laura-workout-traker.herokuapp.com/?id=6077023875ed0600158b5145" className="btn btn-outline-info link">Deployed Link</a>
               <a href="https://github.com/Lauracejas/Workout-Tracker"

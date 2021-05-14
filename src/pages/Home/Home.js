@@ -9,18 +9,19 @@ const Header = () => {
 
   return (
     <div id="home" className="intro route bg-image background">
-      
+
       <div className="intro-content hero display-table">
         <div className="table-cell">
-          <div className="container">
-            <div className="work-img">
-              <img src={Photo} alt="" className="img-fluid" />
+          <div className="row container align-self-center">
+            <div className="col-sm-3 work-img">
+              <img src={Photo} alt="" className="port" />
             </div>
-            <h1 className="intro-title mb-4">Hello, I am Laura Cejas</h1>
-            <p className="intro-subtitle">
-              <span className="text-slider-items"></span>
-              <strong className="text-slider">
-                <Typed
+            <div className="col-sm-8 letters">
+              <h1 className="intro-title mb-4">Hello, I am Laura Cejas</h1>
+              <p className="intro-subtitle">
+                <span className="text-slider-items"></span>
+                <strong className="text-slider"> Junior Full - Stack Software Developer
+                {/* <Typed
                   strings={[
                     "Front End Developer",
                     "Back End Developer",
@@ -30,22 +31,14 @@ const Header = () => {
                   backDelay={1100}
                   backSpeed={30}
                   loop
-                />
-              </strong>
-            </p>
-            <p className="pt-3">
-              {/* <a
-                  className="btn btn-primary btn js-scroll px-4"
-                  href="#work"
-                  role="button"
-                  >
-                  View My Work
-                </a> */}
-            </p>
+                /> */}
+                </strong>
+              </p>
+            </div>
+
           </div>
         </div>
       </div>
-                {/* <Particles /> */}
     </div>
   )
 

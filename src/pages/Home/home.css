@@ -26,32 +26,39 @@
     font-size: 60px;
     font-family: 'Merienda', cursive; 
     vertical-align: middle;
-    line-height: 3;
     display: inline-block;
     color: white;
+    margin-top: 60px;
     
   
 }
 
-.img-fluid {   
+.port {   
     border: 1px solid;
-    border-radius: 60px;
-    height: fit-content;   
-    width: null;
-    margin: 11px
+    border-radius: 200px;
+    height: 330px;   
+    width: null;      
+    margin: 11px; 
+    margin-top: 60px;
+    margin-left: 20px;
 }
 
 .Header {
-line-height: 1.5;
+
 display: inline-block;
 vertical-align: middle;
 margin: auto;
 position: absolute;
 top: 20%;
 left: 40%;
-transform: translate(-50%, -50%);
 }
 
 .intro-subtitle{
 margin-bottom: 80px;
 }
+
+.container {
+    justify-content: space-between;
+    padding-top: 100px;
+}
+
