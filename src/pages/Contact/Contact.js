@@ -21,7 +21,7 @@ const Contact = () => {
             <div className="more-info">
               <p className="lead">
                 Whether you want to get in touch, talk about a project
-                collaboration, or just say hi, I'd love to hear from
+                collaboration, I'd love to hear from
                 you.
               </p>
             </div>
