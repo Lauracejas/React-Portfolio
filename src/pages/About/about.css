@@ -31,7 +31,7 @@
 }
 
 .textMe {
-  background-color:  rgba(252, 246, 247, 0.7);
+  background-color:  rgba(252, 246, 247, 0.8);
   margin-top: 40px;
  color:rgb(19, 7, 63);
  padding: 15px;
@@ -39,8 +39,8 @@
 
 }
 
-.textMe > p {
-  font-size: 20px;
+strong {
+  font-size: 18px;
 }
 
 .about { 
