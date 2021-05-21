@@ -35,7 +35,7 @@ const Contact = () => {
               <a href="https://github.com/Lauracejas" target="blank" id="btn" className="button button-outline button-white"><span className="ico-circle">
                 <i className="ion-social-github"></i>
               </span>GitHub</a>
-              <a href="https://docs.google.com/file/d/1wJGAUnAE_E9szG6E0pEJ2TMTP9lLuDZi/edit?ts=609e548b&gxids=7628" target="blank" id="btn" className="button button-outline button-white"><span className="ico-circle">
+              <a href="https://docs.google.com/document/d/196bqnfpnuikdFeAO_HKCvF5XmSUiGuyfg6KAgbL5asA/edit" target="blank" id="btn" className="button button-outline button-white"><span className="ico-circle">
                 <i className="ion-social-codepen"></i>
               </span>Resume</a>
             </div>
